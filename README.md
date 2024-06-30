@@ -18,3 +18,10 @@ I successfully learned:
 - Show images from other webpages with alt text
 - Display information with ordered and unordered lists
 - Display basic paragraphs
+
+## Future Improvements
+I would really like some be able to make the page more "flashy", so:
+- Add animations, such as fade ins for images
+- Improve the interface to make it more responsive
+- Add captions below images to explain briefly what they are
+- Minor improvements such as add more recipes, or make the text more "interesting" are also considered
