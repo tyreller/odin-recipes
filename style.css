@@ -15,14 +15,38 @@ a { /*For all links*/
     font-weight: normal;
     font-style: italic;
 }
-.first-link {
+
+
+.para {
+
+}
+
+.para.pasta {
     color: hsl(180, 50%, 50%);
 }
 
-.second-link {
+.para.fried-rice {
     color: hsl(271, 76%, 53%);
 }
 
-.third-link {
+.para.pesto {
+    color: hsl(9, 100%, 64%);
+}
+
+
+.list {
+
+}
+
+
+.first-link { /* Pasta */
+    color: hsl(180, 50%, 50%);
+}
+
+.second-link { /* Fried Rice */
+    color: hsl(271, 76%, 53%);
+}
+
+.third-link { /* Pesto Grilled Cheese Sandwich */
     color: hsl(9, 100%, 64%);
 }
