@@ -1,0 +1,28 @@
+* {
+    font-family: Tahoma,"Comic Sans MS", "Brush Script MT", serif;
+}
+
+h1 { /*For all titles*/
+    color: hsl(34, 57%, 53%);
+    font-family: "Brush Script MT";
+    font-size: 38px;
+    font-weight: lighter;
+}
+
+a { /*For all links*/
+    font-family: "Copperplate";
+    font-size: 18px;
+    font-weight: normal;
+    font-style: italic;
+}
+.first-link {
+    color: hsl(180, 50%, 50%);
+}
+
+.second-link {
+    color: hsl(271, 76%, 53%);
+}
+
+.third-link {
+    color: hsl(9, 100%, 64%);
+}
